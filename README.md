@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi, I'm Hyunho Kim
+
+🎓 Recent BSc Computer Science graduate from the University of Bristol
+- 🔗 [Linkedin](https://www.linkedin.com/in/hyunho-kim-4b2ab8222/?isSelfProfile=true)
 
 <!--
 **Hyun2l/Hyun2l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
